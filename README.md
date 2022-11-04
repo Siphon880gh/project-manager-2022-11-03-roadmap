@@ -122,5 +122,5 @@ Low hanging fruits might not create a cohesive experience.
 
 ![](https://i.imgur.com/687V3Gf.png)
 
-^When you acquire a planned some features and acquired a new tech and found out it can lead to more features, that's a valid way too. So we can prioritize by features or outcomes. And we can prioritize by tech enablement.
+^When you planned some features and acquired a new tech and found out it can lead to more features, that's a valid way too. So we can prioritize by features or outcomes. And we can prioritize by tech enablement.
 
