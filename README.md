@@ -1,7 +1,7 @@
 
 ## Note Rights: All rights reserved to UCB Haas and Project Manager Studio. This is not for public and is meant for study notes between classmates. 
-## Note Please Contribute: Had not formatted the notes, so it's very crude. Feel free to contribute on this platform. Someone can format the notes or add more details. You can add comments to the lines.
-## Note Experimental: I need to figure out a way to convert this to a more user friendly environment.  I don't have a formal process how we can share notes together, add comments, etc. Let's figure out the processes or any alternative platform. I've considered Google Doc but Obsidian allowed me to easily type notes as a note taker. and I would have to spend sometime combing through the text formatting. I had to export to Github due to time constraints which may not be the best solution for a study group.
+## Note Please Contribute: Had not formatted the notes, so it's very crude. This is supposed to act like a Wiki where anyone can contribute edits. Someone can format the notes or add more details or add comments to the lines.
+## Note Experimental: I need to figure out a way to convert this to a more user friendly environment.  I don't have a formal process how we can do the contributions as if it's a Wiki. Let's figure out the processes or any alternative platform. I've considered Google Doc but Obsidian allowed me to easily type notes as a note taker. And I would have to spend sometime combing through the text formatting to convert it to Google Doc. I had to export to Github due to time constraints which may not be the best solution for a study group.
 
 # Product Roadmapping Study Notes (2022-11-03)
 Customer-centric
