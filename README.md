@@ -8,7 +8,7 @@ Customer-centric
 
 ![](https://i.imgur.com/fQmVEAe.png)
 Old approach: Highest benefit, lowest cost, to make an impact
-But the problem is you're disconnected from serving real human nees and goals. Alan Cooper (VS Basic) (And inventor of Persona)
+But the problem is you're disconnected from serving real human needs and goals. Alan Cooper (VS Basic) (And inventor of Persona)
 
 ![](https://i.imgur.com/QWLjctm.png)
 
